@@ -1,4 +1,5 @@
 <?php 
+// caleb johnson
 // This page lets a user check view their profile information
 //This also calculates how points they are away from a free entree using javascript 
 
