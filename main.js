@@ -1,6 +1,6 @@
 /* Caleb Johnson
 CIS 1408 and 1610
-jquery stuff
+jquery
 */
 
 // make function to create variable with active property that passes onto the next img with interval rate of 3500
