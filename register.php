@@ -2,7 +2,7 @@
 /*
 Caleb Johnson Pursue 3-5
 CIS 1610
-Web Scripting
+register page
 */
 
 $page_title = 'Register';
