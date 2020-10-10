@@ -1,6 +1,6 @@
 <!-- Caleb Johnson
 CIS 1408 and 1610
-Final Project
+DB connection
 -->
 <?php
 
