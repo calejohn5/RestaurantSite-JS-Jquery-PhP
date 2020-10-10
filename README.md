@@ -1,6 +1,6 @@
 # RestaurantSite-JS-Jquery-PhP
 
-This is a website I completed in College.  It is a website built using Bootstrap 4, PhP, JavaScript, mySQL, and Jquery.
+This is a website I completed in College.  It was built using Bootstrap 4, PhP, JavaScript, mySQL, and Jquery.
 
 # Jquery used for
 * fading images in/out in carousel home page.
