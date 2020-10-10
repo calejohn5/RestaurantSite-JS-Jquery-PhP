@@ -1,0 +1,119 @@
+/* Caleb Johnson
+CIS 1610 and 1408 
+Final Project
+
+#ae2029 red
+#D4AF37 gold
+#9c9c9c silver
+*/
+
+body {
+    background: #9c9c9c;
+}
+section {
+  overflow: hidden;
+}
+h2 {
+	font-family: candara;
+	font-size: 80px;
+	text-decoration: underline;
+	outline: 5px dotted #9c9c9c;
+	color: #D4AF37;
+	margin-top: 15px;
+}
+
+/* 
+Split screen
+*/
+.column1 {
+	width: 50%;
+}
+/* 
+INDEX CONTENT
+*/
+.column1 h1 {
+	font-family: candara;
+	font-size: 50px;
+	text-decoration: underline #D4AF37;
+	border-bottom: 5px dotted #9c9c9c;
+	color: #D4AF37;
+	margin-top: 15px;
+}
+/* Keep our modals smaller */
+.modal {
+    max-height:50%; 
+    overflow-y: auto;
+}
+
+/* Border for our recipes */
+.col {
+	border: 3px solid #9c9c9c;
+}
+
+/* Make the three columns equal */
+.column {
+  float: left;
+  width: 33.33%;
+}
+
+.box {
+	text-align: center;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+/* 
+RECIPES PAGE
+*/
+.recipes h1 {
+	color: #D4AF37;
+	font-family: candara;
+	font-size: 80px;
+}
+.recipes p {
+	color: #ae2029;;
+	font-family: monospace;
+	font-size: 24px;
+}
+.row {
+	color: #D4AF37;
+}
+/* 
+NAVBAR
+*/
+.navbar {
+  border-bottom:6px solid #9c9c9c;
+  background-color: #D4AF37;
+  
+}
+.navtext {
+	font-family: candara;
+}
+
+.navbar-brand span {
+  color: #ae2029;
+}
+/* 
+Footer
+*/
+.footer {
+    border-top:5px solid #9c9c9c;
+}
+
+.fixedsticky {
+  top: 0;
+}
+.nav-link {
+	color: #ae2029;
+}
+.nav-link:hover {
+  text-decoration: underline;
+}
+#footer .nav-link:hover {
+  text-decoration: underline;
+}
+

@@ -1,0 +1,55 @@
+<!-- 
+Caleb Johnson
+CIS 1406 and 1610 
+Final
+-->
+<?xml version="1.0" encoding="UTF-8"?>
+<book>
+	<person>
+		<profile>https://cdn.pixabay.com/photo/2015/12/08/00/26/food-1081707_960_720.jpg</profile>
+		<name>Juicy Lucy</name>
+		<phone>490 calories</phone>
+		<ingredients>
+			<ul>
+				<li>Hamburger</li>
+				<li>Lettuce</li>
+				<li>Tomato</li>
+				<li>Onion</li>
+				<li>Pickles</li>
+				<li><b>LOTS</b> of cheese!</li>
+				<li>Bun</li>
+			</ul>
+		</ingredients>
+	</person>
+	<person>
+		<profile>https://cdn.pixabay.com/photo/2016/11/17/04/23/burger-1830702_960_720.jpg</profile>
+		<name>Crunchy Chicken Wrap</name>
+		<phone>360 calories</phone>
+		<ingredients>
+			<ul>
+				<li>Crispy or grilled chicken</li>
+				<li>Tomato</li>
+				<li>Shredded cheese</li>
+				<li>Lettuce or spinach</li>
+				<li>Tortilla</li>
+				<li>Side of your choice...<i>(ranch recommended)</i></li>
+			</ul>
+		</ingredients>
+	</person>
+	<person>
+		<profile>https://cdn.pixabay.com/photo/2017/11/13/03/56/grilled-pineapple-pork-burrito-2944562_960_720.jpg</profile>
+		<name>Carnita Pork Burrito</name>
+		<phone>430 calories</phone>
+		<ingredients>
+			<ul>
+				<li>6 oz. Carnita Pork</li>
+				<li>Cilantro</li>
+				<li>Cabbage</li>
+				<li>Barbeque sauce</li>
+				<li>Tortilla</li>
+				<li>Pineapple <i>(for the brave)</i></li>
+			</ul>
+		</ingredients>
+	</person>
+</book>
+	
