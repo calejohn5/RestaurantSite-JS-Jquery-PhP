@@ -1,7 +1,7 @@
 <!--
 Caleb Johnson
 CIS 1408 and 1610 
-FINAL 
+index page
 --->
 <?php #adding in our title and header 
 $page_title = 'EatFoodHere!';
