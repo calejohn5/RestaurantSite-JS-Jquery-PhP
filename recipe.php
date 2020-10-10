@@ -1,6 +1,6 @@
 <!-- Caleb Johnson
 CIS 1610 and 1408 
-Final Project
+recipe page
 -->
 <?php 
 $page_title = 'Welcome to this Site!';
